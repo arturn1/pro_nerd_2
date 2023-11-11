@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "474394915856",
+    "firebase_url": "https://pronerd-aeb66-default-rtdb.firebaseio.com",
+    "project_id": "pronerd-aeb66",
+    "storage_bucket": "pronerd-aeb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474394915856:android:cce538d7739e47a5648695",
+        "android_client_info": {
+          "package_name": "com.example.cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474394915856-vtg1qu31g91eaej8ps2hmpkv4tma481n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cam",
+            "certificate_hash": "f0e40189845181392bff52d258ef7bd37f3ae8cd"
+          }
+        },
+        {
+          "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI29SGhZWh8StcbTAs9wX6VJVfE_kYtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474394915856:android:bf6360612845095c648695",
+        "android_client_info": {
+          "package_name": "com.freedcompany.pro_nerd_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474394915856-2aji6ce1188tm7177br5n6se1m4u3ndt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freedcompany.pro_nerd_teacher",
+            "certificate_hash": "ef7a93dc80acf1b863263d391d912263be44019d"
+          }
+        },
+        {
+          "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI29SGhZWh8StcbTAs9wX6VJVfE_kYtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474394915856:android:45b9f1ebc994d70e648695",
+        "android_client_info": {
+          "package_name": "com.pronerd.pronerd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474394915856-6l8cuh1sc7cutff4dasb1jlkqts7ratk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "ef7a93dc80acf1b863263d391d912263be44019d"
+          }
+        },
+        {
+          "client_id": "474394915856-6rkek80pup9dfql3i5trfqidrtn2eit4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "cfd5ac58087023a6eaaea57443b912df7652ea0e"
+          }
+        },
+        {
+          "client_id": "474394915856-8panjb1a3dkmvjp4p98h2tcegdh6kmhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "ecbbcfa06850623dcd27399918c42067806faf82"
+          }
+        },
+        {
+          "client_id": "474394915856-qog91cucr1dsftnvttknutv384hpm8oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "18e21b42c6de2dbbddfd2423ea8b08a4ca1d07f5"
+          }
+        },
+        {
+          "client_id": "474394915856-t7bg1r7u305570r7m2qgsj0u6824445h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "be9144a864c393ed01a794a6068256c22416241d"
+          }
+        },
+        {
+          "client_id": "474394915856-ungdp1t4t57sn86edd1nnthppqtletl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pronerd.pronerd",
+            "certificate_hash": "2a8690e9a715bcd6477d61e0a6b1b8897e27ffda"
+          }
+        },
+        {
+          "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI29SGhZWh8StcbTAs9wX6VJVfE_kYtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474394915856-qtr07pgji1fgit6qnn81ip2fvrsbsrq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
